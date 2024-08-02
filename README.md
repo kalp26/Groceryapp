@@ -58,8 +58,3 @@ This project is a PHP-based web application designed to manage an online grocery
 - [style.css](style.css)
 - [new.js](new.js)
 
-## Installation and Setup
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/username/repository.git
